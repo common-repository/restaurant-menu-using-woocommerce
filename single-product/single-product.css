@@ -1,0 +1,115 @@
+.sp-sidedish-group {
+    padding: 5px;
+    background-color: var(--pisol_color4);
+    font-weight: bold;
+    text-transform: capitalize;
+    text-align: left;
+    border-bottom: 1px solid #fff;
+    cursor: pointer;
+    /* margin-top: 5px; */
+}
+
+.sp-sidedish-group:after {
+    content: '\25BE';
+    display: inline-block;
+    font-size: 16px;
+    margin-right: 0px;
+    margin-left: auto;
+    float: right;
+}
+
+.sp-dishes-group {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 5px;
+    padding: 10px 10px;
+    border: 1px solid #ccc;
+    align-items: center;
+    margin-top: -1px;
+    transition: all 0.22s;
+}
+
+.sp-dishes-group div input[type="checkbox"] {
+    display: none;
+}
+
+.sp-dishes-group div label {
+    background: #fff;
+    width: 100%;
+    margin-bottom: 0px;
+    margin-left:0px !important;
+    display: grid !important;
+    grid-template-columns: 1fr 1fr;
+    padding: 5px 5px;
+    text-transform: capitalize;
+    background: #ccc;
+    color: #666;
+    border-radius: 2px;
+    align-items: center;
+    cursor: pointer;
+    transition: all 0.22s;
+}
+
+.sp-dishes-group div label:hover {
+    background: var(--pisol_color1);
+    color: #FFF;
+}
+
+.sp-dishes-group div label span:last-child {
+    text-align: right;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+#sp-side-dish-container{
+    margin-bottom:20px;
+}
+
+#sp-side-dish-container small {
+    font-size: 12px;
+    font-weight: normal !important;
+    font-style: italic;
+    margin-left: 10px;
+}
+
+#sp-side-dish-container input[type=checkbox]+label{
+    position: relative;
+}
+
+#sp-side-dish-container input[type=checkbox]:checked+label:after{
+    content:"";
+    width:15px;
+    height:15px;
+    position: absolute;
+    top:-3px;
+    right:-3px;
+    background:url('../front/view/img/checked.svg') no-repeat;
+    background-size: contain;
+}
+
+.dish_type .pisol-icon{
+    height:30px;
+    width:auto;
+    display:inline-block;
+    margin-right:5px;
+}
+
+.single-product .dish_type{
+    text-align:left;
+    margin-top:10px;
+}
+
+@media (max-width:500px){
+
+    .sp-dishes-group{
+        grid-template-columns: 1fr;
+    }
+
+    #sp-side-dish-container input[type=checkbox]+label{
+        margin-bottom:10px;
+    }
+
+    #sp-side-dish-container input[type=checkbox]:checked+label:after{
+        top:-7px;
+    }
+}

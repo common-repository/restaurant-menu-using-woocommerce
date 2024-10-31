@@ -1,0 +1,568 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Pro Restaurant Menu using Woocommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-08-08 03:32+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: admin/pisol_restaurant_menu_design.php:47
+msgid "Active Category button Background color"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_design.php:48
+msgid "Active Category button text color"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_design.php:39
+msgid "Add custom color to Menu element"
+msgstr ""
+
+#: include/pisol_products.php:122
+msgid "Add side dishes"
+msgstr ""
+
+#: include/pisol_products.php:660
+msgid "Add to cart"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_design.php:58
+msgid "Add to cart button Background color"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_design.php:77
+#: admin/pisol_restaurant_menu_design.php:78
+msgid ""
+"Background color of Side Dish group with restriction of minimum side dish "
+"selection"
+msgstr ""
+
+#: admin/pisol_admin.php:36
+msgid "Buy Pro"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_option.php:59
+msgid "Cart left, product right"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_option.php:59
+msgid "Cart right, product left"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_design.php:43
+msgid "Category button Background color"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_design.php:41
+msgid "Category button colors"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_design.php:45
+msgid "Category button text color"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_design.php:35
+msgid "Clear side dish selection once product added to cart"
+msgstr ""
+
+#: include/pisol_products.php:463 admin/meta/pisol_admin_meta.php:266
+msgid "Contain Nuts"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_food_type.php:30
+msgid "Contain nuts Icon"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_design.php:33
+msgid "Customize button label"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_option.php:67
+msgid "Default Category"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_option.php:61
+msgid "Disabled"
+msgstr ""
+
+#: admin/meta/pisol_admin_meta.php:244
+msgid "Dish Type"
+msgstr ""
+
+#: admin/meta/pisol_admin_meta.php:260
+msgid "Dish Type (Veg/Non Veg)"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_food_type.php:22
+msgid "Dish type icon"
+msgstr ""
+
+#: admin/pisol_admin.php:35
+msgid "Documentation"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_design.php:31
+msgid "Don't hide any side dish group"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_speed.php:27
+msgid "Enable browser caching"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_option.php:61
+msgid "Enable hide cart option and hide the cart on page load"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_option.php:61
+msgid "Enable hide cart option and keep the cart open on page load"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_design.php:29
+msgid "Enable lightbox popup for product image"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_design.php:27
+msgid "Enable product search option"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_speed.php:23
+msgid "Enable server caching"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_food_type.php:20
+msgid "Food type"
+msgstr ""
+
+#: include/pisol_products.php:461
+msgid "Gluten Free"
+msgstr ""
+
+#: admin/meta/pisol_admin_meta.php:265
+msgid "Gluten free"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_food_type.php:28
+msgid "Gluten Free Icon"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_food_type.php:20
+msgid "Hide"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_design.php:31
+msgid "Hide all side dish group"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_design.php:60
+msgid "Hide cart / Show cart button background color"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_design.php:62
+msgid "Hide cart / Show cart button text color"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_option.php:63
+msgid "Hide Empty Categories"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_design.php:31
+msgid "Hide non essential side dish group (pro)"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_option.php:85
+msgid "Hide out of stock item"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_option.php:65
+msgid "Hide this Categories"
+msgstr ""
+
+#: include/pisol_products.php:465
+msgid "Hot"
+msgstr ""
+
+#: admin/meta/pisol_admin_meta.php:267
+msgid "Hot (chilli)"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_food_type.php:32
+msgid "Hot Icon"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_speed.php:25
+msgid "How long the server cached will be used, "
+msgstr ""
+
+#. URI of the plugin
+msgid "https://woo-restaurant.com/"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_option.php:87
+msgid ""
+"It will show the variable product in the menu, and user can add that product "
+"to cart by going to its single product page"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_option.php:59
+msgid "Layout of menu page"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_option.php:87
+msgid "Load variable product in menu"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_option.php:83
+msgid "Message opening animation"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_option.php:63
+#: admin/pisol_restaurant_menu_option.php:69
+#: admin/pisol_restaurant_menu_option.php:71
+#: admin/pisol_restaurant_menu_option.php:73
+#: admin/pisol_restaurant_menu_option.php:75
+#: admin/pisol_restaurant_menu_option.php:77
+#: admin/pisol_restaurant_menu_option.php:79
+#: admin/pisol_restaurant_menu_option.php:81
+#: admin/pisol_restaurant_menu_option.php:87
+msgid "No"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_design.php:86
+msgid "Non Selected side dish button background color"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_design.php:88
+msgid "Non Selected side dish button text color"
+msgstr ""
+
+#: include/pisol_products.php:459
+msgid "Non-Veg"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_food_type.php:26
+msgid "Non-Veg Icon"
+msgstr ""
+
+#: admin/meta/pisol_admin_meta.php:264
+msgid "Non-Vegetarian"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_option.php:85
+msgid "Once this is enabled it will hide the product that are out of stock"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Online Food ordering made easy, just install and your online food business "
+"is ready"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_design.php:56
+msgid "Other Buttons colors"
+msgstr ""
+
+#. Author of the plugin
+msgid "PI Websolution"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "piwebsolution.com"
+msgstr ""
+
+#: pisol_restaurant_menu.php:78
+msgctxt "present in plugin list page"
+msgid "Buy PRO Version"
+msgstr ""
+
+#: pisol_restaurant_menu.php:77
+msgctxt "present in plugin list page"
+msgid "Settings"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_option.php:65
+msgid ""
+"Press CTR and click on category to select multiple category, Select the "
+"categoris that you will like to hide on front end, Not to select the "
+"category that you have selected above as default category"
+msgstr ""
+
+#: front/view/product-loop.php:20
+msgid "Price/Unit"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_design.php:64
+msgid "Proceed to checkout button background color"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_design.php:65
+msgid "Proceed to checkout button text color"
+msgstr ""
+
+#: front/view/product-loop.php:19
+msgid "Product"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_option.php:59
+msgid "product bottom, cart top"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_design.php:29
+msgid "Product image will open in a popup"
+msgstr ""
+
+#: front/pisol_front.php:192
+msgid "Product name to search"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_design.php:27
+msgid "Product search option"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_option.php:59
+msgid "product top, cart bottom"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_option.php:71
+msgid "Redirect Category page to menu page"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_option.php:73
+msgid "Redirect Shop page to menu page"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_option.php:69
+msgid "Redirect Simple product to menu page"
+msgstr ""
+
+#: front/view/woocommerce/cart/cart-empty.php:71
+msgid "Remove this item"
+msgstr ""
+
+#: admin/pisol_admin.php:49
+msgid "Restaurant Menu"
+msgstr ""
+
+#: admin/pisol_admin.php:49
+msgid "Restaurant Menu Setting"
+msgstr ""
+
+#. Name of the plugin
+msgid "Restaurant Menu using WooCommerce"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_design.php:67
+msgid "Search button background color"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_design.php:69
+msgid "Search button text color"
+msgstr ""
+
+#: front/pisol_front.php:192
+msgid "Search Product"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_design.php:39
+msgid ""
+"Select this option so you can change the menu page color using this plugin "
+"setting"
+msgstr ""
+
+#: admin/meta/pisol_admin_meta.php:262
+msgid "Select Type"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_design.php:82
+msgid "Selected side dish button background color"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_design.php:84
+msgid "Selected side dish button text color"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_speed.php:25
+msgid "Server Cache expiry in minutes"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_option.php:59
+msgid "Set layout of the menu page"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_food_type.php:20
+msgid "Show below product name"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_design.php:31
+msgid "Show customize button"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_option.php:75
+msgid "Show Image"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_option.php:77
+msgid "Show Image from parent category, if product dont have image"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_food_type.php:20
+msgid "Show in column"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_option.php:81
+msgid "Show product description in popup"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_design.php:37
+msgid "Show product image on mobile"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_option.php:79
+msgid "Show short description below product"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_design.php:80
+msgid ""
+"Side Dish color options (this are the side dish inside side dish groups)"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_design.php:73
+msgid "Side Dish group background color"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_design.php:71
+msgid "Side Dish group colors"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_design.php:75
+msgid "Side Dish group text color"
+msgstr ""
+
+#: sidedish/class-side-dish.php:15 admin/meta/pisol_admin_meta.php:22
+msgid "Side Dishes"
+msgstr ""
+
+#: sidedish/class-side-dish-integrator.php:13
+msgid "Side Dishes Template"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_design.php:50
+msgid "Sub category bar inside the menu"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_design.php:52
+msgid "Subcategory bar Background color"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_design.php:54
+msgid "Subcategory bar text color"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_design.php:33
+msgid "Text shown inside button that will show or hide the side dish group"
+msgstr ""
+
+#: front/pisol_front.php:162
+msgid "There are no product of this type"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_option.php:83
+msgid "This animation is used when sales notification message opens"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_speed.php:23
+msgid "this will cache category page on server to speed up the browsing"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_speed.php:27
+msgid "this will cache the category product on user browser "
+msgstr ""
+
+#: admin/pisol_restaurant_menu_food_type.php:20
+msgid "Using this option you can show or hide food type in front end"
+msgstr ""
+
+#: include/pisol_products.php:457
+msgid "Veg"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_food_type.php:24
+msgid "Veg Icon"
+msgstr ""
+
+#: include/pisol_products.php:467 admin/meta/pisol_admin_meta.php:268
+msgid "Vegan"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_food_type.php:34
+msgid "Vegan Icon"
+msgstr ""
+
+#: admin/meta/pisol_admin_meta.php:263
+msgid "Vegetarian"
+msgstr ""
+
+#: pisol_restaurant_menu.php:30
+msgctxt "Warning message when woocommerce is not installed"
+msgid ""
+"Please Install and Activate WooCommerce plugin, without that this plugin "
+"cant work"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_design.php:31
+msgid ""
+"When enabled side-dish group will be hidden till user click the customize "
+"button"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_design.php:35
+msgid ""
+"when enabled the selected side dish of the product get cleared on add to cart"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_option.php:63
+#: admin/pisol_restaurant_menu_option.php:69
+#: admin/pisol_restaurant_menu_option.php:71
+#: admin/pisol_restaurant_menu_option.php:73
+#: admin/pisol_restaurant_menu_option.php:75
+#: admin/pisol_restaurant_menu_option.php:77
+#: admin/pisol_restaurant_menu_option.php:79
+#: admin/pisol_restaurant_menu_option.php:81
+#: admin/pisol_restaurant_menu_option.php:87
+msgid "Yes"
+msgstr ""
+
+#: single-product/product-sidedish-group.php:7
+#: front/view/product-sidedish-group.php:14
+msgid "You can select upto: "
+msgstr ""
+
+#: admin/pisol_restaurant_menu_design.php:37
+msgid "You can show product image on mobile devices as well with this option"
+msgstr ""
+
+#: admin/pisol_restaurant_menu_option.php:79
+msgid ""
+"You can show short description below the product name, try to keep this short"
+msgstr ""
+
+#: pisol_restaurant_menu.php:119
+#, php-format
+msgid ""
+"You have not configured \"Cart page\"  in WooCommerce setting <a href=\"%s\">"
+"Click here to configure</a>, without this configured plugin will not work "
+"properly<br>This will cause the cart page to go blank as some one adds the "
+"product in the cart"
+msgstr ""
+
+#: single-product/product-sidedish-group.php:8
+#: front/view/product-sidedish-group.php:15
+msgid "You must select at least: "
+msgstr ""
